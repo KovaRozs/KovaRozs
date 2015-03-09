@@ -3,5 +3,6 @@ Itt meg vagany lenne par dologt csinalni, peldaul:
 Menu;
 Egyjatekos(vs Computer, ami hard vagy impossible);
 Tobbjatekos mod, ahol a gep a szkort is tartja, s mondjuk van 7 jatek s aki 4 et megnyer az a nyertes vagy ilyesmmi;
+Enumokat elonyos lenne hasznalni. Utanna kene nezni a syntaxnak is.
 
 Ha meg eszedbe jut valami szoljal, s ha azt gondolod h valamit meg akarsz csinalni, csak tessek.
